@@ -17,8 +17,8 @@ diracik-racik, sesuai dengan slogan tealinux yaitu "Nikmatnya sebuah racikan".
 Maskot "Dandel" tangan & kaki yang ramping melambangkan gesit & ringan seperti
 bunga dandelion yang mudah dibawa terbang oleh angin. 
 
-[!](asset/g1.png)
+[](asset/g1.png)
 
-[!](asset/g3.png)
+[](asset/g3.png)
 
-[!](asset/g4.png)
+[](asset/g4.png)

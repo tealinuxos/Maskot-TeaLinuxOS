@@ -30,7 +30,7 @@ bunga dandelion yang mudah dibawa terbang oleh angin.
 Lisensi untuk Mascot TeaLinuxOS menggunakan [**CC BY-NC-SA**](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). Lisensi ini mengizinkan penggandaan dan memodifikasi dengan syarat :
 
 * Tidak untuk kepentingan **komersial**.
-* Mencantumkan atribusi ke pembuat/pemilik asli (__Ahmad Rizal__, [**TeaLinuxOS**](http://tealinuxos.org), dan **__DOSCOM__**)
+* Mencantumkan atribusi ke pembuat/pemilik asli ([__Ahmad Rizal__](https://github.com/ahmadrizal1297), [**TeaLinuxOS**](http://tealinuxos.org), dan [**__DOSCOM__**](http://doscom.org))
 * Menyertakan lisensi yang sama dengan yang asli, yaitu [**CC BY-NC-SA**](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 Apabila penggandaan atau modifikasi mascot keluar dari syarat diatas, maka pihak terkait **wajib** melakukan ijin dengan pemilik asli __Ahmad Rizal__ atau [**DOSCOM**](http://doscom.org).

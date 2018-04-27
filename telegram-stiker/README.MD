@@ -1,174 +1,174 @@
 # Dandel & Tea Privew Sticker
 
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%201.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%201.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%202.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%202.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%203.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%203.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%204.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%204.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%205.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%205.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%206.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%206.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%207.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%207.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%208.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%208.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%209.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%209.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2010.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2010.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2011.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2011.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2012.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2012.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2013.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2013.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2014.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2014.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2015.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2015.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2016.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2016.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2017.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2017.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2018.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2018.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2019.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2019.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2020.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2020.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2021.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2021.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2022.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2022.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2023.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2023.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2024.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2024.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2025.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2025.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2026.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2026.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2027.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2027.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2028.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2028.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2029.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2029.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2030.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2030.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2031.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2031.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2032.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2032.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2033.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2033.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2034.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2034.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2035.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2035.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2036.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2036.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2037.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2037.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2038.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2038.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2039.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2039.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2040.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2040.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2041.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2041.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2042.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2042.png?raw=true"
   />
 </div>
 <div>
-  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%2043.png?raw=true"
+  <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/pack/Dandel%20&%20Tea%2043.png?raw=true"
   />
 </div>

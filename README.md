@@ -12,13 +12,27 @@ memiliki kesan yang lincah dan polos karena dandelion itu ringan & berwarna
 putih bersih / kuning cerah.
 
 Maskot "Tea" mempunyai dua daun didalam cangkirnya melambangkan teh itu bisa
-diracik-racik, sesuai dengan slogan tealinux yaitu "Nikmatnya sebuah racikan".
+diracik-racik, sesuai dengan slogan tealinux yaitu "Nikmatnya Sebuah Racikan".
 
 Maskot "Dandel" tangan & kaki yang ramping melambangkan gesit & ringan seperti
 bunga dandelion yang mudah dibawa terbang oleh angin. 
 
+
+## Pratinjau
 ![](https://raw.githubusercontent.com/abas/dandeltea/rizal/asset/g1.png?token=ANFm5CWDoTZCoPZJF8Gu5tZm40UMDjS9ks5a7F32wA%3D%3D)
 
 ![](https://raw.githubusercontent.com/abas/dandeltea/rizal/asset/g3.png?token=ANFm5I1nHn8GHDBTySZr_CDBCfcYW7txks5a7F5kwA%3D%3D)
 
 ![](https://raw.githubusercontent.com/abas/dandeltea/rizal/asset/g4.png?token=ANFm5KDjYg1AmDyWVm5FKupP0Z-o49fDks5a7F6DwA%3D%3D)
+
+
+## Lisensi
+Lisensi untuk Mascot TeaLinuxOS menggunakan [**CC BY-NC-SA**](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). Lisensi ini mengizinkan penggandaan dan memodifikasi dengan syarat :
+
+* Tidak untuk kepentingan **komersial**.
+* Mencantumkan atribusi ke pembuat/pemilik asli (__Ahmad Rizal__, [**TeaLinuxOS**](http://tealinuxos.org), dan **__DOSCOM__**)
+* Menyertakan lisensi yang sama dengan yang asli, yaitu **{jenis_lisensi}**
+
+Apabila penggandaan atau modifikasi mascot keluar dari syarat diatas, maka pihak terkait **wajib** melakukan ijin dengan pemilik asli __Ahmad Rizal__ atau [**DOSCOM**](http://doscom.org).
+
+ <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>

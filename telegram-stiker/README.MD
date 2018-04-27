@@ -1,7 +1,7 @@
 # Dandel & Tea Privew Sticker
-
+<div style="max-width:19%;">
 <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%201.png?raw=true"/>
-
+</div>
 <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%202.png?raw=true"/>
 
 <img style="max-width:19%;" src="https://github.com/abas/dandeltea/blob/master/telegram-stiker/Dandel%20&%20Tea%203.png?raw=true"/>

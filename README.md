@@ -31,8 +31,8 @@ Lisensi untuk Mascot TeaLinuxOS menggunakan [**CC BY-NC-SA**](https://creativeco
 
 * Tidak untuk kepentingan **komersial**.
 * Mencantumkan atribusi ke pembuat/pemilik asli (__Ahmad Rizal__, [**TeaLinuxOS**](http://tealinuxos.org), dan **__DOSCOM__**)
-* Menyertakan lisensi yang sama dengan yang asli, yaitu **{jenis_lisensi}**
+* Menyertakan lisensi yang sama dengan yang asli, yaitu [**CC BY-NC-SA**](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 Apabila penggandaan atau modifikasi mascot keluar dari syarat diatas, maka pihak terkait **wajib** melakukan ijin dengan pemilik asli __Ahmad Rizal__ atau [**DOSCOM**](http://doscom.org).
 
- <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>
+ <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>

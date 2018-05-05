@@ -19,11 +19,6 @@ bunga dandelion yang mudah dibawa terbang oleh angin.
 
 
 ## Pratinjau
-![](https://raw.githubusercontent.com/abas/dandeltea/rizal/asset/g1.png?token=ANFm5CWDoTZCoPZJF8Gu5tZm40UMDjS9ks5a7F32wA%3D%3D)
-
-![](https://raw.githubusercontent.com/abas/dandeltea/rizal/asset/g3.png?token=ANFm5I1nHn8GHDBTySZr_CDBCfcYW7txks5a7F5kwA%3D%3D)
-
-![](https://raw.githubusercontent.com/abas/dandeltea/rizal/asset/g4.png?token=ANFm5KDjYg1AmDyWVm5FKupP0Z-o49fDks5a7F6DwA%3D%3D)
 
 
 ## Lisensi

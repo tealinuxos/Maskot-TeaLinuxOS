@@ -19,18 +19,18 @@ bunga dandelion yang mudah dibawa terbang oleh angin.
 
 
 ## Pratinjau
-![](https://raw.githubusercontent.com/abas/dandeltea/master/Maskot-TeaLinuxOS-Rizal-Release.png)
+![](https://raw.githubusercontent.com/Maskot-TeaLinuxOS/dandeltea/master/Maskot-TeaLinuxOS-Rizal-Release.png)
 
-![](https://raw.githubusercontent.com/abas/dandeltea/master/Variasi-Maskot-Dandel-Release.png)
+![](https://raw.githubusercontent.com/Maskot-TeaLinuxOS/dandeltea/master/Variasi-Maskot-Dandel-Release.png)
 
-![](https://raw.githubusercontent.com/abas/dandeltea/master/Variasi-Maskot-Tea-Release.png)
+![](https://raw.githubusercontent.com/Maskot-TeaLinuxOS/dandeltea/master/Variasi-Maskot-Tea-Release.png)
 
 ## Download Sticker 
 - [Telegram Sticker](https://t.me/addstickers/dandeltealinuxos)
 
 ## Kontributor
 - Konsep Karakter : [Ahmad Rizal](https://github.com/ahmadrizal1297) 
-- **Artwork TeaLinuxOS**
+- **Artwork [TeaLinuxOS](http://tealinuxos.org)**
 
 ## Lisensi
 Lisensi untuk Mascot TeaLinuxOS menggunakan [**CC BY-NC-SA**](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). Lisensi ini mengizinkan penggandaan dan memodifikasi dengan syarat :

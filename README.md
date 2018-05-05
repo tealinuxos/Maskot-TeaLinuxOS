@@ -32,6 +32,9 @@ bunga dandelion yang mudah dibawa terbang oleh angin.
 - Konsep Karakter : [Ahmad Rizal](https://github.com/ahmadrizal1297) 
 - **Artwork [TeaLinuxOS](http://tealinuxos.org)**
 
+> Referensi Repo Rilis
+- BlankOn : [BlankOn-Maskot-Boni](https://github.com/BlankOn/blankon-mascot-boni)
+
 ## Lisensi
 Lisensi untuk Mascot TeaLinuxOS menggunakan [**CC BY-NC-SA**](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). Lisensi ini mengizinkan penggandaan dan memodifikasi dengan syarat :
 

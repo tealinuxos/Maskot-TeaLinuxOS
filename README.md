@@ -19,7 +19,11 @@ bunga dandelion yang mudah dibawa terbang oleh angin.
 
 
 ## Pratinjau
+![](https://raw.githubusercontent.com/abas/dandeltea/master/Maskot-TeaLinuxOS-Rizal-Release.png)
 
+![](https://raw.githubusercontent.com/abas/dandeltea/master/Variasi-Maskot-Dandel-Release.png)
+
+![](https://raw.githubusercontent.com/abas/dandeltea/master/Variasi-Maskot-Tea-Release.png)
 
 ## Lisensi
 Lisensi untuk Mascot TeaLinuxOS menggunakan [**CC BY-NC-SA**](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode). Lisensi ini mengizinkan penggandaan dan memodifikasi dengan syarat :

@@ -19,11 +19,11 @@ bunga dandelion yang mudah dibawa terbang oleh angin.
 
 
 ## Pratinjau
-![](https://raw.githubusercontent.com/Maskot-TeaLinuxOS/dandeltea/master/Maskot-TeaLinuxOS-Rizal-Release.png)
+![](https://raw.githubusercontent.com/tealinuxos/https://github.com/tealinuxos/Maskot-TeaLinuxOS.git/master/Maskot-TeaLinuxOS-Rizal-Release.png)
 
-![](https://raw.githubusercontent.com/Maskot-TeaLinuxOS/dandeltea/master/Variasi-Maskot-Dandel-Release.png)
+![](https://raw.githubusercontent.com/tealinuxos/https://github.com/tealinuxos/Maskot-TeaLinuxOS.git/master/Variasi-Maskot-Dandel-Release.png)
 
-![](https://raw.githubusercontent.com/Maskot-TeaLinuxOS/dandeltea/master/Variasi-Maskot-Tea-Release.png)
+![](https://raw.githubusercontent.com/tealinuxos/https://github.com/tealinuxos/Maskot-TeaLinuxOS.git/master/Variasi-Maskot-Tea-Release.png)
 
 ## Download Sticker 
 - [Telegram Sticker](https://t.me/addstickers/dandeltealinuxos)

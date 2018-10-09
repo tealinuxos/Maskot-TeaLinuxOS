@@ -17,6 +17,7 @@ Mempunyai dua buah daun didalam cangkirnya melambangkan teh itu bisa
 diracik-racik, sesuai dengan slogan tealinuxOS yaitu "Nikmatnya Sebuah Racikan".
 
 **Maskot "Dandel"**
+
 Tangan & kaki yang ramping melambangkan gesit & ringan seperti
 bunga dandelion yang mudah dibawa terbang oleh angin. 
 
